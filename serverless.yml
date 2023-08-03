@@ -1,4 +1,4 @@
-org: henriquefornazeiro
+org: 
 app: serverless-empirica
 service: serverless-empirica
 frameworkVersion: '3'

@@ -24,10 +24,6 @@ npm i
 
 3. Edite os valores das variáveis para suas credenciais; 
 
-3. Faça uma cópia do arquivo `serverless.examples.yml` e renomeie para `serverless.yml`; 
-
-3. Adicione os valores das suas variáveis de ambiente para o AWS Lambda; 
-
 3. Execute para fazer o deploy:
 
 ```
