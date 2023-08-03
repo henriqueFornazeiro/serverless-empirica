@@ -30,7 +30,7 @@ npm i
 $ run dev deploy
 ```
 
-4. Após executar o deploy, deverá aparecer no terminal:
+6. Após executar o deploy, deverá aparecer no terminal:
 
 ```bash
 Deploying aws-node-project to stage dev ([region])
@@ -40,4 +40,4 @@ Deploying aws-node-project to stage dev ([region])
 functions:
   hello: aws-node-project-dev-hello (1.5 kB)
 ```
-5. A função deverá ser executada no AWS Lambda após carregar o arquivo no bucket
+7. A função deverá ser executada no AWS Lambda após carregar o arquivo no bucket
